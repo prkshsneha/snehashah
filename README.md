@@ -1,4 +1,4 @@
-Hi, I'm Sneha 👋🏼
+Hey! I'm Sneha 👋🏼
 --
 I build AI-powered products and share the thinking, systems, and frameworks behind how they’re designed and shipped.
 
